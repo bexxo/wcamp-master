@@ -1,0 +1,126 @@
+body 
+{
+background-color: #FFFFFF;
+font-family:"Courier",Serif;
+font-size:100%
+}
+.foreground
+{background-image:none;
+height:auto;
+width:1050px;
+margin-left:auto;
+margin-right:auto;
+}
+.banner
+{
+padding-left:136px;
+padding-top:32px;
+}
+.title
+{
+padding-left:129px;
+padding-top:32px;
+}
+.subtitle
+{
+padding-left:115px;
+padding-top:20px;
+}
+.menubar
+{
+padding-left:131px;
+padding-right:130px;
+padding-top:32px;
+}
+.content-header
+{
+padding-top:16px;
+padding-left:10px;
+padding-right:10px;
+font-size:1.5em;
+}
+.content-text
+{
+padding-top:16px;
+padding-left:160px;
+padding-right:160px;
+font-size:1.25em;
+}
+.content-illustrated
+{
+padding-top:26px;
+padding-left:160px;
+padding-right:160px;
+font-size:1.25em;
+vertical-align:middle;
+}
+.image-right
+{
+float:right;
+}
+.image-left
+{
+float:left;
+}
+.image-center
+{
+float:center;
+}
+.clear
+{
+clear:both;
+}
+.calendar-event
+{
+padding-top:24px;
+padding-right:128px;
+}
+.footer-hr
+{
+padding-top:48px;
+padding-left:76px;
+padding-right:40px;
+}
+.footer
+{
+padding-left:96px;
+padding-right:40px;
+padding-bottom:12px;
+margin-top:-10px;
+font-size:1.25em;
+}
+a:link 
+{ 
+color: #230f3d;
+}
+a:visited 
+{ 
+color: #570a74;
+}
+a:hover { 
+color: #CCCCCC;
+}
+a:active { 
+color: #333333;
+}
+img
+{  border-style: none;
+}
+td
+{
+padding:10px;
+font-size:1.25em;
+}
+table, th, td
+{
+border: 1px solid black;
+}
+table
+{
+border-collapse:collapse;
+}
+div.moviewrapper{
+ width: 420px;
+ height: 315px;
+ margin: 0 auto;
+}
